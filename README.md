@@ -1,2 +1,3 @@
 # Hello-word
-just a iitial project for studies
+just a initial project for studies
+...bonjour je suis en train de modifier l fichier se trouvant sur mon premier branche cree il ya peu.........
